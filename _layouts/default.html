@@ -3,26 +3,40 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-{% seo %}
-
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <style>
+      h1 {text-align: center; margin: 15px;}
+    </style>
   </head>
   <body>
     <div class="wrapper">
       <header>
         <div id="avatar-container">
-            <img src="assets/images/avatar.jpg" alt="Avatar" height="150" width="150">
+            <img src="assets/images/avatar.jpg" alt="Avatar" height="200" width="200">
         </div>
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>
-            I am a 5th-year CS PhD student at Cornell University working on Natural Language Processing.
-            My advisor is Prof. Claire Cardie.
+            I am a 5th-year CS PhD student at <a href="https://www.cs.cornell.edu/" target="_blank">Cornell University</a> working on Natural Language Processing.
+            My advisor is <a href="http://www.cs.cornell.edu/home/cardie/" target="_blank">Prof. Claire Cardie</a>.
         </p>
+        <address>
+          <strong>Cornell University</strong>
+          <br>
+          423 Gates Hall
+          <br>
+          Ithaca, NY 14850
+          <br>
+          <br>
+          <strong>Phone:</strong>
+          <br>
+          <br>
+          <strong>Email:</strong> 
+        </address>
 
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
