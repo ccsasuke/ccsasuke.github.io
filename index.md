@@ -2,122 +2,45 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [Research](#research)
+I am broadly interested in Natural Language Processing and Machine Learning methods that can be used to automatically learn the underlying knowledge in languages.
 
-[Link to another page](another-page).
+On the methodology side, I am intrigued by elegant models with end-to-end training,  such as the capability of Deep Neural Networks to learn powerful representations without explicitly injecting human knowledge. I am also interested in structured prediction models that can handle complex output spaces since NLP problems usually have structured outputs.
 
-There should be whitespace between paragraphs.
+On the application side, I am very interested in extracting and understanding knowledge behind languages, such as Question Answering, Reading Comprehension, or representation learning.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+Recently, my proposed thesis research focuses on studying Adversarial Neural Networks with applications in NLP, particularly for cross-lingual and cross-domain adaptation.
 
 
-### Definition lists can be used with HTML syntax.
+# [Publications](#publications)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+**Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification**, _Xilun Chen_, Yu Sun, Ben Athiwaratkun, Claire Cardie and Kilian Weinberger, arXiv: <https://arxiv.org/abs/1606.01614>, [bibtex](resources/bibtex/adan.bib)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+**A Rectangle Mining Method for Understanding the Semantics of Financial Tables**, _Xilun Chen_, Laura Chiticariu, Marina Danilevsky, Alexandre Evfimievski and Prithviraj Sen, The 14th IAPR International Conference on Document Analysis and Recognition (ICDAR 2017), [pdf](resources/papers/TableExtraction.pdf), [data](resources/data/FinancialTableDataset.zip)
 
-```
-The final element.
-```
+**Combining Global Models for Parsing Universal Dependencies**, Tianze Shi, Felix G. Wu, _Xilun Chen_ and Yao Cheng, Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies (CoNLL 2017), [pdf](http://aclweb.org/anthology/K17-3003), [bibtex](https://aclanthology.info/papers/K17-3003/k17-3003.bib)
+
+**Price of Anarchy of Innovation Diffusion in Social Networks**, _Xilun Chen_ and Chenxia Wu, WINE 2014 (Poster), [pdf](https://arxiv.org/pdf/1407.7319.pdf)
+
+**Multi-Domain Adaptation for SMT Using Multi-Task Learning**, Lei Cui, _Xilun Chen_, Dongdong Zhang, Shujie Liu,m Mu Li and Ming Zhou, Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing (EMNLP 2013), [pdf](http://aclweb.org/anthology/D13-1107), [bibtex](https://aclanthology.info/papers/D13-1107/d13-1107.bib)
+
+# [Experiences](#experience)
+05.2017 - 08.2017, **Facebook**, *Menlo Park, CA, PhD Intern working with the Search NLP team.*\\
+Worked on Aspect Extraction on review data. E.g. In review `I like the food but the service is terrible.`, the system should extract `food` as a positive aspect while extracting `service` as a negative one.
+
+05.2016 - 08.2016, **IBM Research**, *San Jose, CA, Research Intern with the Scalable NLP team.*\\
+Worked on understanding the structure and semantics of tabular data in financial documents.
+Our paper was published on ICDAR 2017.
+
+05.2015 - 08.2015, **Google**, *Mountain View, CA, PhD Intern with the Display Ads Predictive Targeting team.*\\
+Implemented a new targeting model based on Slope One collaborative filtering to recommend keywords to Ads for better coverage using only keyword performance statistics.
+
+05.2012 - 02.2013, **Microsoft Research Asia**, *Beijing, China, Full-time Intern working on Machine Translation with Dr. Dongdong Zhang and Dr. Ming Zhou.*
+* Designed an all-in-one GUI Auto Trainer for the Machine Translation pipeline of MSRA.
+* Participated in a real-time speech-to-speech machine translation task ([News](http://www.bbc.co.uk/news/technology-20266427), [Video](https://www.youtube.com/watch?v=Nu-nlQqFCKg))
+
+
+# [Miscellaneous](#misc)
+I cook on a daily basis when I'm stuck in Ithaca where good Chinese food is scarce.
+
+I do Archery (mostly indoor Olympic-style recurve archery) in my spare time, and sometimes go skiing when weather permits.
