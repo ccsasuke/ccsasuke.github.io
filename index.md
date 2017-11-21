@@ -14,7 +14,7 @@ Recently, my proposed thesis research focuses on studying Adversarial Neural Net
 
 # [Publications](#publications)
 
-**Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification**, _Xilun Chen_, Yu Sun, Ben Athiwaratkun, Claire Cardie and Kilian Weinberger, arXiv: <https://arxiv.org/abs/1606.01614>, [bibtex](resources/bibtex/adan.bib)
+**Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification**, _Xilun Chen_, Yu Sun, Ben Athiwaratkun, Claire Cardie and Kilian Weinberger, [arXiv](<https://arxiv.org/abs/1606.01614>), [bibtex](resources/bibtex/adan.bib)
 
 **A Rectangle Mining Method for Understanding the Semantics of Financial Tables**, _Xilun Chen_, Laura Chiticariu, Marina Danilevsky, Alexandre Evfimievski and Prithviraj Sen, The 14th IAPR International Conference on Document Analysis and Recognition (ICDAR 2017), [pdf](resources/papers/TableExtraction.pdf), [data](resources/data/FinancialTableDataset.zip)
 
@@ -43,4 +43,4 @@ Implemented a new targeting model based on Slope One collaborative filtering to 
 # [Miscellaneous](#misc)
 I cook on a daily basis when I'm stuck in Ithaca where good Chinese food is scarce.
 
-I do Archery (mostly indoor Olympic-style recurve archery) in my spare time, and sometimes go skiing when weather permits.
+I do [archery](assets/images/archery.jpg) (mostly indoor Olympic-style recurve archery) in my spare time, and sometimes go skiing when weather permits.
