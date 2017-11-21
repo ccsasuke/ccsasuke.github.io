@@ -53,16 +53,16 @@ Implemented a new targeting model based on Slope One collaborative filtering to 
 
 05.2012 - 02.2013, **Microsoft Research Asia**, Beijing, China,<br>
 *Full-time Intern working on Machine Translation with Dr. Dongdong Zhang and Dr. Ming Zhou*
-* Designed an all-in-one GUI Auto Trainer for the Machine Translation pipeline of MSRA.
-* Participated in a real-time speech-to-speech machine translation task ([News](http://www.bbc.co.uk/news/technology-20266427), [Video](https://www.youtube.com/watch?v=Nu-nlQqFCKg))
+Designed an all-in-one GUI Auto Trainer for the Machine Translation pipeline of MSRA.
+Participated in a real-time speech-to-speech machine translation task ([News](http://www.bbc.co.uk/news/technology-20266427), [Video](https://www.youtube.com/watch?v=Nu-nlQqFCKg))
 
 
 # [Teaching](#teach)
-PhD TA for [CS4300](http://www.cs.cornell.edu/courses/cs4300/2017sp/): Language and Information
+TA for [CS4300](http://www.cs.cornell.edu/courses/cs4300/2017sp/): Language and Information
 
-PhD TA for [CS4740/5740](https://www.cs.cornell.edu/courses/cs4740/2015sp/): Introduction to Natural Language Processing
+TA for [CS4740/5740](https://www.cs.cornell.edu/courses/cs4740/2015sp/): Introduction to Natural Language Processing
 
-PhD TA for [CS2110](https://www.cs.cornell.edu/courses/cs2110/2014fa): Object-Oriented Programming and Data Structures
+TA for [CS2110](https://www.cs.cornell.edu/courses/cs2110/2014fa): Object-Oriented Programming and Data Structures
 
 
 # [Miscellaneous](#misc)
