@@ -444,9 +444,9 @@ footer {
     word-wrap: normal; } }
 @media print, screen and (max-width: 480px) {
   .img-illustration {
-    max-width: 300px;
-    height: auto;
-  }
+    max-width: 320px;
+    height: auto; }
+
   body {
     padding: 15px; }
 
