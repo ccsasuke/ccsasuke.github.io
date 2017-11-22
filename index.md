@@ -70,7 +70,7 @@ I cook on a daily basis when I'm stuck in Ithaca where good Chinese food is scar
 
 
 
-I do <span class="illustrations"><a data-toggle="modal" data-target="#archeryModal">archery</a></span> (mostly indoor Olympic-style recurve archery) in my spare time, and sometimes go skiing when weather permits.
+I do <span class="illustrations"><a href="#" data-toggle="modal" data-target="#archeryModal">archery</a></span> (mostly indoor Olympic-style recurve archery) in my spare time, and sometimes go skiing when weather permits.
 
 <div id="archeryModal" class="modal" role="dialog">
   <div class="modal-dialog">
@@ -79,10 +79,10 @@ I do <span class="illustrations"><a data-toggle="modal" data-target="#archeryMod
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-<!--        <h4 class="modal-title">See me shooting</h4> -->
+        <h4 class="modal-title">See me shooting</h4>
       </div>
       <div class="modal-body">
-<img src='assets/images/archery.jpg' height='320' class='img-illustration'/>
+<img src='assets/images/archery.jpg' height='320' class="img-illustration"/>
       </div>
 <!--      <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
