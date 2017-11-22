@@ -68,4 +68,4 @@ TA for [CS2110](https://www.cs.cornell.edu/courses/cs2110/2014fa): Object-Orient
 # [Miscellaneous](#misc)
 I cook on a daily basis when I'm stuck in Ithaca where good Chinese food is scarce.
 
-I do <span class="illustrations"><a data-toggle="tooltip" data-placement="top" title="<img src='assets/images/archery.jpg' height='400' class='img-illustration'/>">archery</a></span> (mostly indoor Olympic-style recurve archery) in my spare time, and sometimes go skiing when weather permits.
+I do <span class="illustrations"><a data-toggle="tooltip" data-placement="top" title="<img src='assets/images/archery.jpg' height='320' class='img-illustration'/>">archery</a></span> (mostly indoor Olympic-style recurve archery) in my spare time, and sometimes go skiing when weather permits.
