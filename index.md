@@ -14,6 +14,11 @@ Recently, my proposed thesis research focuses on studying Adversarial Neural Net
 
 # [Publications](#publications)
 
+**Multinomial Adversarial Networks for Multi-Domain Text Classification**<br/>
+_Xilun Chen_, Claire Cardie<br/>
+(To appear) The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2018)<br/>
+[arXiv](https://arxiv.org/abs/1802.05694), [code](https://github.com/ccsasuke/man)
+
 **Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification**<br/>
 _Xilun Chen_, Yu Sun, Ben Athiwaratkun, Claire Cardie and Kilian Weinberger<br/>
 [arXiv](<https://arxiv.org/abs/1606.01614>), [bibtex](resources/bibtex/adan.bib)
@@ -21,7 +26,10 @@ _Xilun Chen_, Yu Sun, Ben Athiwaratkun, Claire Cardie and Kilian Weinberger<br/>
 **A Rectangle Mining Method for Understanding the Semantics of Financial Tables**<br/>
 _Xilun Chen_, Laura Chiticariu, Marina Danilevsky, Alexandre Evfimievski and Prithviraj Sen<br/>
 The 14th IAPR International Conference on Document Analysis and Recognition (ICDAR 2017)<br/>
-[pdf](resources/papers/TableExtraction.pdf), [data](resources/data/FinancialTableDataset.zip)
+[proceedings](http://ieeexplore.ieee.org/document/8269983/),
+[pdf](resources/papers/TableExtraction.pdf),
+[bibtex](resources/bibtex/remine.bib),
+[dataset](resources/data/FinancialTableDataset.zip)
 
 **Combining Global Models for Parsing Universal Dependencies**<br/>
 Tianze Shi, Felix G. Wu, _Xilun Chen_ and Yao Cheng<br/>
@@ -67,8 +75,6 @@ TA for [CS2110](https://www.cs.cornell.edu/courses/cs2110/2014fa): Object-Orient
 
 # [Miscellaneous](#misc)
 I cook on a daily basis when I'm stuck in Ithaca where good Chinese food is scarce.
-
-
 
 I do <span class="illustrations"><a href="#" data-toggle="modal" data-target="#archeryModal">archery</a></span> (mostly indoor Olympic-style recurve archery) in my spare time, and sometimes go skiing when weather permits.
 
