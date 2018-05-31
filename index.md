@@ -28,6 +28,7 @@ _Xilun Chen_, Laura Chiticariu, Marina Danilevsky, Alexandre Evfimievski and Pri
 The 14th IAPR International Conference on Document Analysis and Recognition (ICDAR 2017)<br/>
 [proceedings](http://ieeexplore.ieee.org/document/8269983/),
 [pdf](resources/papers/TableExtraction.pdf),
+[poster](resources/papers/poster_remine.pdf),
 [bibtex](resources/bibtex/remine.bib),
 [dataset](resources/data/FinancialTableDataset.zip)
 
