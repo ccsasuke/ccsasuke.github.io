@@ -25,7 +25,7 @@ Proceedings of the 2018 Conference of the North American Chapter of the Associat
 **Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification**<br/>
 _Xilun Chen_, Yu Sun, Ben Athiwaratkun, Claire Cardie and Kilian Weinberger<br/>
 (To Appear) Will be published as a journal paper in Transactions of the Association for Computational Linguistics (TACL). <br/>
-[arXiv](<https://arxiv.org/abs/1606.01614>), [bibtex](resources/bibtex/adan.bib)
+[arXiv](<https://arxiv.org/abs/1606.01614>) (updated version available soon), [bibtex](resources/bibtex/adan.bib), code (coming soon)
 
 **A Rectangle Mining Method for Understanding the Semantics of Financial Tables**<br/>
 _Xilun Chen_, Laura Chiticariu, Marina Danilevsky, Alexandre Evfimievski and Prithviraj Sen<br/>
