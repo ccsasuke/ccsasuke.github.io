@@ -16,11 +16,15 @@ Recently, my proposed thesis research focuses on studying Adversarial Neural Net
 
 **Multinomial Adversarial Networks for Multi-Domain Text Classification**<br/>
 _Xilun Chen_, Claire Cardie<br/>
-(To appear) The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2018)<br/>
-[arXiv](https://arxiv.org/abs/1802.05694), [code](https://github.com/ccsasuke/man)
+Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2018)<br/>
+[proceedings](http://aclweb.org/anthology/N18-1111),
+[bibtex](https://aclanthology.coli.uni-saarland.de/papers/N18-1111/n18-1111.bib),
+[arXiv](https://arxiv.org/abs/1802.05694),
+[code](https://github.com/ccsasuke/man)
 
 **Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification**<br/>
 _Xilun Chen_, Yu Sun, Ben Athiwaratkun, Claire Cardie and Kilian Weinberger<br/>
+(To Appear) Will be published as a journal paper in Transactions of the Association for Computational Linguistics (TACL). <br/>
 [arXiv](<https://arxiv.org/abs/1606.01614>), [bibtex](resources/bibtex/adan.bib)
 
 **A Rectangle Mining Method for Understanding the Semantics of Financial Tables**<br/>
