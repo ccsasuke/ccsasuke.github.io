@@ -465,3 +465,9 @@ footer {
 
 .modal-backdrop {
   opacity: 0.5 !important; }
+
+header {
+  width: 260px; }
+
+section {
+  width: 660px; }

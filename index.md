@@ -7,29 +7,63 @@ I am broadly interested in Natural Language Processing and Machine Learning meth
 
 On the methodology side, I am intrigued by elegant models with end-to-end training,  such as the capability of Deep Neural Networks to learn powerful representations without explicitly injecting human knowledge. I am also interested in structured prediction models that can handle complex output spaces since NLP problems usually have structured outputs.
 
-On the application side, I am very interested in extracting and understanding knowledge behind languages, such as Question Answering, Reading Comprehension, or representation learning.
+On the application side, I am very interested in extracting and understanding knowledge behind languages, such as representation learning, information extraction, reading comprehension, etc.
 
-Recently, my proposed thesis research focuses on studying Adversarial Neural Networks with applications in NLP, particularly for cross-lingual and cross-domain adaptation.
+Recently, my proposed thesis research focuses on learning deep representations for low-resource / zero-resource cross-lingual model transfer.
 
 
 # [Publications](#publications)
 
-**Multinomial Adversarial Networks for Multi-Domain Text Classification**<br/>
-_Xilun Chen_, Claire Cardie<br/>
-Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2018)<br/>
-[proceedings](http://aclweb.org/anthology/N18-1111),
-[bibtex](https://aclanthology.coli.uni-saarland.de/papers/N18-1111/n18-1111.bib),
-[arXiv](https://arxiv.org/abs/1802.05694),
-[code](https://github.com/ccsasuke/man)
+##### [PhD Dissertation](#dissertation)
+**Learning Deep Representations for Low-Resource Cross-Lingual Natural Language Processing**<br/>
+_Xilun Chen_<br/>
+May, 2019<br/>
+[pdf](resources/papers/xilun_dissertation.pdf)
+
+
+##### [Journal Articles](#journals)
 
 **Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification**<br/>
 _Xilun Chen_, Yu Sun, Ben Athiwaratkun, Claire Cardie and Kilian Weinberger<br/>
-(To Appear) Will be published as a journal paper in Transactions of the Association for Computational Linguistics (TACL). <br/>
-[arXiv](<https://arxiv.org/abs/1606.01614>) (updated version available soon), [bibtex](resources/bibtex/adan.bib), code (coming soon)
+Transactions of the Association for Computational Linguistics (**TACL**). <br/>
+[Article](<https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00039>),
+[bibtex (TACL)](resources/bibtex/adan_tacl.bib),
+[arXiv](<https://arxiv.org/abs/1606.01614>),
+[bibtex (arXiv)](resources/bibtex/adan.bib),
+[talk@EMNLP2018](https://vimeo.com/306129914),
+[code](https://github.com/ccsasuke/adan)
+
+
+##### [Conference Proceedings](#conferences)
+
+**Multi-Source Cross-Lingual Model Transfer: Learning What to Share**<br/>
+_Xilun Chen_, Ahmed Hassan Awadallah, Hany Hassan, Wei Wang and Claire Cardie<br/>
+(To appear) Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (**ACL 2019**)<br/>
+[arXiv](https://arxiv.org/abs/1810.03552),
+[bibtex](resources/bibtex/manmoe.bib),
+[code](https://github.com/microsoft/Multilingual-Model-Transfer)
+
+**Unsupervised Multilingual Word Embeddings**<br/>
+_Xilun Chen_, Claire Cardie<br/>
+Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2018**)<br/>
+[proceedings](http://aclweb.org/anthology/D18-1024),
+[bibtex](http://aclweb.org/anthology/D18-1024.bib),
+[arXiv](https://arxiv.org/abs/1808.08933),
+[poster](resources/posters/umwe.pdf),
+[code](https://github.com/ccsasuke/umwe)
+
+**Multinomial Adversarial Networks for Multi-Domain Text Classification**<br/>
+_Xilun Chen_, Claire Cardie<br/>
+Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL-HLT 2018**)<br/>
+[proceedings](http://aclweb.org/anthology/N18-1111),
+[bibtex](http://aclweb.org/anthology/N18-1111.bib),
+[arXiv](https://arxiv.org/abs/1802.05694),
+[poster](resources/posters/man.pdf),
+[code](https://github.com/ccsasuke/man)
 
 **A Rectangle Mining Method for Understanding the Semantics of Financial Tables**<br/>
 _Xilun Chen_, Laura Chiticariu, Marina Danilevsky, Alexandre Evfimievski and Prithviraj Sen<br/>
-The 14th IAPR International Conference on Document Analysis and Recognition (ICDAR 2017)<br/>
+The 14th IAPR International Conference on Document Analysis and Recognition (**ICDAR 2017**)<br/>
 [proceedings](http://ieeexplore.ieee.org/document/8269983/),
 [pdf](resources/papers/TableExtraction.pdf),
 [poster](resources/papers/poster_remine.pdf),
@@ -38,45 +72,64 @@ The 14th IAPR International Conference on Document Analysis and Recognition (ICD
 
 **Combining Global Models for Parsing Universal Dependencies**<br/>
 Tianze Shi, Felix G. Wu, _Xilun Chen_ and Yao Cheng<br/>
-Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies (CoNLL 2017)<br/>
+Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies (**CoNLL 2017**)<br/>
 [pdf](http://aclweb.org/anthology/K17-3003), [bibtex](https://aclanthology.info/papers/K17-3003/k17-3003.bib)
 
 **Price of Anarchy of Innovation Diffusion in Social Networks**<br/>
-_Xilun Chen_ and Chenxia Wu, WINE 2014 (Poster)<br/>
+_Xilun Chen_ and Chenxia Wu, **WINE 2014** (Poster)<br/>
 [pdf](https://arxiv.org/pdf/1407.7319.pdf)
 
 **Multi-Domain Adaptation for SMT Using Multi-Task Learning**<br/>
 Lei Cui, _Xilun Chen_, Dongdong Zhang, Shujie Liu,m Mu Li and Ming Zhou<br/>
-Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing (EMNLP 2013)<br/>
+Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2013**)<br/>
 [pdf](http://aclweb.org/anthology/D13-1107), [bibtex](https://aclanthology.info/papers/D13-1107/d13-1107.bib)
 
 # [Experiences](#experience)
-05.2017 - 08.2017, **Facebook**, Menlo Park, CA,<br>
+05.2018 - 08.2018, **Microsoft Research**, Redmond, WA.<br>
+*Research Intern with the Language and Information Technology team*\\
+Proposed a zero-resource multilingual model transfer method that requires neither target language training data nor cross-lingual resources. ([Paper](https://arxiv.org/pdf/1810.03552.pdf))
+
+05.2017 - 08.2017, **Facebook**, Menlo Park, CA.<br>
 *PhD Intern working with the Search NLP team*\\
-Worked on Aspect Extraction on review data. E.g. In review `I like the food but the service is terrible.`, the system should extract `food` as a positive aspect while extracting `service` as a negative one.
+Developed an unsupervised aspect extractor for user reviews.
+E.g. Input: `I like the food but the service is terrible.`
+Extracted aspects: `food` (positive), `service` (negative).
 
-05.2016 - 08.2016, **IBM Research**, San Jose, CA,<br>
+05.2016 - 08.2016, **IBM Research**, San Jose, CA.<br>
 *Research Intern with the Scalable NLP team*\\
-Worked on understanding the structure and semantics of tabular data in financial documents.
-Our paper was published on ICDAR 2017.
+Devised a rectangle mining method for understanding the structure and semantics of tabular data in financial documents. ([Paper](http://www.cs.cornell.edu/~xlchen/resources/papers/TableExtraction.pdf) published at ICDAR 2017.)
 
-05.2015 - 08.2015, **Google**, Mountain View, CA,<br>
+05.2015 - 08.2015, **Google**, Mountain View, CA.<br>
 *PhD Intern with the Display Ads Predictive Targeting team*\\
-Implemented a new targeting model based on Slope One collaborative filtering to recommend keywords to Ads for better coverage using only keyword performance statistics.
+Implemented a new targeting model for recommending high-performing Ad keywords based on the slope-one collaborative filtering algorithm.
 
-05.2012 - 02.2013, **Microsoft Research Asia**, Beijing, China,<br>
-*Full-time Intern working on Machine Translation with Dr. Dongdong Zhang and Dr. Ming Zhou*
-Designed an all-in-one GUI Auto Trainer for the Machine Translation pipeline of MSRA.
-Participated in a real-time speech-to-speech machine translation task ([News](http://www.bbc.co.uk/news/technology-20266427), [Video](https://www.youtube.com/watch?v=Nu-nlQqFCKg))
+05.2012 - 02.2013, **Microsoft Research Asia**, Beijing, China.<br>
+*Undergrad Research Intern with the Natural Language Computing team*\\
+Built a streamlined tool to automate and distribute training of machine translation pipeline.
+Participated in the first [showcase](http://www.bbc.co.uk/news/technology-20266427) of real-time speech-to-speech machine translation.
 
 
 # [Teaching](#teach)
+TA for [CS4700](http://www.cs.cornell.edu/courses/cs4700/2018sp/): Principles of Artificial Intelligence
+<br>
 TA for [CS4300](http://www.cs.cornell.edu/courses/cs4300/2017sp/): Language and Information
-
+<br>
 TA for [CS4740/5740](https://www.cs.cornell.edu/courses/cs4740/2015sp/): Introduction to Natural Language Processing
-
+<br>
 TA for [CS2110](https://www.cs.cornell.edu/courses/cs2110/2014fa): Object-Oriented Programming and Data Structures
 
+# [Professional Services](#services)
+EMNLP 2019 (PC member: Long Papers)
+<br>
+NAACL-HLT 2019 (PC member: Long and Short Papers)
+<br>
+RepL4NLP @ ACL 2019 (PC member)
+<br>
+EMNLP 2018 (PC member: Long Papers)
+<br>
+RepL4NLP @ ACL 2018 (PC member)
+<br>
+W-NUT @ EMNLP 2018 (PC member)
 
 # [Miscellaneous](#misc)
 I cook on a daily basis when I'm stuck in Ithaca where good Chinese food is scarce.
