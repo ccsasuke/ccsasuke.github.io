@@ -38,9 +38,10 @@ Transactions of the Association for Computational Linguistics (**TACL**). <br/>
 
 **Multi-Source Cross-Lingual Model Transfer: Learning What to Share**<br/>
 _Xilun Chen_, Ahmed Hassan Awadallah, Hany Hassan, Wei Wang and Claire Cardie<br/>
-(To appear) Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (**ACL 2019**)<br/>
+Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (**ACL 2019**)<br/>
+[proceedings](https://www.aclweb.org/anthology/P19-1299),
+[bibtex](https://aclweb.org/anthology/papers/P/P19/P19-1299.bib),
 [arXiv](https://arxiv.org/abs/1810.03552),
-[bibtex](resources/bibtex/manmoe.bib),
 [code](https://github.com/microsoft/Multilingual-Model-Transfer)
 
 **Unsupervised Multilingual Word Embeddings**<br/>
