@@ -12,17 +12,21 @@ Previously, my PhD research was about learning deep representations for low-reso
 # [Publications](#publications)
 (\* denotes equal contribution)
 
-#### [2023](#publications2023)
+#### [2024](#publications2024)
 
 **RA-DIT: Retrieval-Augmented Dual Instruction Tuning**<br/>
 Xi Victoria Lin\*, **Xilun Chen**\*, Mingda Chen\*, Weijia Shi, Maria Lomeli, Rich James, Pedro Rodriguez, Jacob Kahn, Gergely Szilvasy, Mike Lewis, Luke Zettlemoyer and Scott Wen-tau Yih<br/>
-arXiv 2310.01352<br/>
+ICLR 2024<br/>
+[proceedings](https://openreview.net/forum?id=22OTbutug9),
 [arXiv](https://arxiv.org/abs/2310.01352)
 
 **Efficient Open Domain Multi-Hop Question Answering with Few-Shot Data Synthesis**<br/>
 Mingda Chen, **Xilun Chen** and Scott Wen-tau Yih<br/>
-arXiv 2305.13691<br/>
+EACL 2024<br/>
+[proceedings](https://aclanthology.org/2024.eacl-long.12/),
 [arXiv](https://arxiv.org/abs/2305.13691)
+
+#### [2023](#publications2023)
 
 **VideoOFA: Two-Stage Pre-Training for Video-to-Text Generation**<br/>
 **Xilun Chen**, Lili Yu, Wenhan Xiong, Barlas Oğuz, Yashar Mehdad, Scott Wen-tau Yih<br/>
