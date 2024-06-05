@@ -14,6 +14,26 @@ Previously, my PhD research was about learning deep representations for low-reso
 
 #### [2024](#publications2024)
 
+**FLAME🔥: Factuality-Aware Alignment for Large Language Models**<br/>
+Sheng-Chieh Lin\*, Luyu Gao, Barlas Oguz, Wenhan Xiong, Jimmy Lin, Wen-tau Yih, **Xilun Chen**\*<br/>
+Preprint<br/>
+[arXiv](https://arxiv.org/abs/2405.01525)
+
+**Nearest Neighbor Speculative Decoding for LLM Generation and Attribution**<br/>
+Minghan Li, **Xilun Chen**, Ari Holtzman, Beidi Chen, Jimmy Lin, Wen-tau Yih, Xi Victoria Lin<br/>
+Preprint<br/>
+[arXiv](https://arxiv.org/abs/2405.19325)
+
+**An Introduction to Vision-Language Modeling**<br/>
+Florian Bordes, Richard Yuanzhe Pang, Anurag Ajay, Alexander C. Li, Adrien Bardes, Suzanne Petryk, Oscar Mañas, Zhiqiu Lin, Anas Mahmoud, Bargav Jayaraman, Mark Ibrahim, Melissa Hall, Yunyang Xiong, Jonathan Lebensold, Candace Ross, Srihari Jayakumar, Chuan Guo, Diane Bouchacourt, Haider Al-Tahan, Karthik Padthe, Vasu Sharma, Hu Xu, Xiaoqing Ellen Tan, Megan Richards, Samuel Lavoie, Pietro Astolfi, Reyhane Askari Hemmat, Jun Chen, Kushal Tirumala, Rim Assouel, Mazda Moayeri, Arjang Talattof, Kamalika Chaudhuri, Zechun Liu, **Xilun Chen**, Quentin Garrido, Karen Ullrich, Aishwarya Agrawal, Kate Saenko, Asli Celikyilmaz, Vikas Chandra<br/>
+Preprint<br/>
+[arXiv](https://arxiv.org/abs/2405.17247)
+
+**Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning**<br/>
+Rao Fu, Jingyu Liu, **Xilun Chen**, Yixin Nie, Wenhan Xiong<br/>
+Preprint<br/>
+[arXiv](https://arxiv.org/abs/2403.11401)
+
 **RA-DIT: Retrieval-Augmented Dual Instruction Tuning**<br/>
 Xi Victoria Lin\*, **Xilun Chen**\*, Mingda Chen\*, Weijia Shi, Maria Lomeli, Rich James, Pedro Rodriguez, Jacob Kahn, Gergely Szilvasy, Mike Lewis, Luke Zettlemoyer and Scott Wen-tau Yih<br/>
 ICLR 2024<br/>
