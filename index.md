@@ -16,12 +16,12 @@ Previously, my PhD research was about learning deep representations for low-reso
 
 **FLAME🔥: Factuality-Aware Alignment for Large Language Models**<br/>
 Sheng-Chieh Lin\*, Luyu Gao, Barlas Oguz, Wenhan Xiong, Jimmy Lin, Wen-tau Yih, **Xilun Chen**\*<br/>
-Preprint<br/>
+NeurIPS 2024<br/>
 [arXiv](https://arxiv.org/abs/2405.01525)
 
 **Nearest Neighbor Speculative Decoding for LLM Generation and Attribution**<br/>
 Minghan Li, **Xilun Chen**, Ari Holtzman, Beidi Chen, Jimmy Lin, Wen-tau Yih, Xi Victoria Lin<br/>
-Preprint<br/>
+NeurIPS 2024<br/>
 [arXiv](https://arxiv.org/abs/2405.19325)
 
 **An Introduction to Vision-Language Modeling**<br/>
@@ -31,7 +31,7 @@ Preprint<br/>
 
 **Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning**<br/>
 Rao Fu, Jingyu Liu, **Xilun Chen**, Yixin Nie, Wenhan Xiong<br/>
-Preprint<br/>
+WACV 2025<br/>
 [arXiv](https://arxiv.org/abs/2403.11401)
 
 **RA-DIT: Retrieval-Augmented Dual Instruction Tuning**<br/>
@@ -40,7 +40,7 @@ ICLR 2024<br/>
 [proceedings](https://openreview.net/forum?id=22OTbutug9),
 [arXiv](https://arxiv.org/abs/2310.01352)
 
-**Efficient Open Domain Multi-Hop Question Answering with Few-Shot Data Synthesis**<br/>
+**Few-Shot Data Synthesis for Open Domain Multi-Hop Question Answering**<br/>
 Mingda Chen, **Xilun Chen** and Scott Wen-tau Yih<br/>
 EACL 2024<br/>
 [proceedings](https://aclanthology.org/2024.eacl-long.12/),
