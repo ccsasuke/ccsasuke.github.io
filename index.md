@@ -12,6 +12,46 @@ Previously, my PhD research was about learning deep representations for low-reso
 # [Publications](#publications)
 (\* denotes equal contribution)
 
+#### [2025](#publications2025)
+**DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers**<br/>
+Xueguang Ma\*, Xi Victoria Lin, Barlas Oguz, Jimmy Lin, Wen-tau Yih, **Xilun Chen**\*<br/>
+ACL 2025<br/>
+[proceedings](https://aclanthology.org/2025.acl-long.1457/),
+[arXiv](https://arxiv.org/abs/2502.18460),
+[code](https://github.com/facebookresearch/dpr-scale/tree/main/drama),
+[checkpoints](https://huggingface.co/collections/facebook/drama)
+
+**Learning to Reason for Factuality**<br/>
+**Xilun Chen**, Ilia Kulikov, Vincent-Pierre Berges, Barlas Oğuz, Rulin Shao, Gargi Ghosh, Jason Weston, Wen-tau Yih<br/>
+Preprint<br/>
+[arXiv](https://arxiv.org/abs/2508.05618),
+[data](https://huggingface.co/datasets/facebook/factual_reasoning),
+[code](https://github.com/facebookresearch/ScalableVeriScore)
+
+**Learning Facts at Scale with Active Reading**<br/>
+Jessy Lin, Vincent-Pierre Berges, **Xilun Chen**, Wen-Tau Yih, Gargi Ghosh, Barlas Oğuz<br/>
+Preprint<br/>
+[arXiv](https://arxiv.org/abs/2508.09494),
+[data](https://huggingface.co/datasets/facebook/meta-active-reading),
+[checkpoint](https://huggingface.co/facebook/meta-wiki-expert)
+
+**FACTORY: A Challenging Human-Verified Prompt Set for Long-Form Factuality**<br/>
+Mingda Chen, Yang Li, **Xilun Chen**, Adina Williams, Gargi Ghosh, Scott Yih<br/>
+Preprint<br/>
+[arXiv](https://arxiv.org/abs/2508.00109),
+[data](https://huggingface.co/datasets/facebook/FACTORY)
+
+**SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning**<br/>
+Preprint<br/>
+Shicheng Liu, Kai Sun, Lisheng Fu, **Xilun Chen**, Xinyuan Zhang, Zhaojiang Lin, Rulin Shao, Yue Liu, Anuj Kumar, Wen-tau Yih, Xin Luna Dong<br/>
+[arXiv](https://arxiv.org/abs/2510.01832)
+
+**Post-training an LLM for RAG? Train on Self-Generated Demonstrations**<br/>
+Matthew Finlayson, Ilia Kulikov, Daniel M. Bikel, Barlas Oguz, **Xilun Chen**, Aasish Pappu<br/>
+Preprint<br/>
+[arXiv](https://arxiv.org/abs/2502.10596)
+
+
 #### [2024](#publications2024)
 
 **FLAME🔥: Factuality-Aware Alignment for Large Language Models**<br/>
